@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\bin\Debug\net6.0\task ref and out.exe
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\bin\Debug\net6.0\task ref and out.deps.json
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\bin\Debug\net6.0\task ref and out.runtimeconfig.json
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\bin\Debug\net6.0\task ref and out.dll
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\bin\Debug\net6.0\task ref and out.pdb
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.dll
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\refint\task ref and out.dll
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.pdb
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\task ref and out.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\task ref and out\task ref and out\obj\Debug\net6.0\ref\task ref and out.dll
